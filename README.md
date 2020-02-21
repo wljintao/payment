@@ -7,13 +7,13 @@
 #### 关于我们
 云峰：15年开始接触支付行业，搭成过P2P、电商的支付体系，也搞残过C端用户的个人钱包，回过头发现，这个行业已经不再神秘。
 
-王磊：程序猿，
+王磊：从15年开始接触支付业务, 玩过金融, 搞过支付, 经历了结算从0到1过程的程序猿一枚, 目前还在看山是山看水是水阶段, 希望志同道合朋友一起来学习和分享!
 
 #### 联系我们
 
 |云峰|王磊|
 |---|---|
-|![avatar](/images/云峰wx.jpg ':size=300')|![avatar](/images/云峰wx.jpg ':size=300')|
+|![avatar](/images/云峰wx.jpg ':size=300')|![avatar](/images/王磊wx.jpg ':size=300')|
 
 #### 版权
-本文为原创，转载请注明：http://www.cnblogs.com/tolimit/
+本文为原创，转载请注明：https://wljintao.github.io/zhifu/
