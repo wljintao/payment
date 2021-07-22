@@ -16,4 +16,4 @@
 |![avatar](/images/云峰wx.jpg ':size=300')|![avatar](/images/王磊wx.jpg ':size=300')|
 
 #### 版权
-本文为原创，转载请注明：http://zhifu.dreamtech.site/
+本文为原创，转载请注明：http://www.zuogemeng.cn/#/
